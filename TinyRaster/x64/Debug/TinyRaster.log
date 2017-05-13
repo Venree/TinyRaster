@@ -1,0 +1,38 @@
+﻿  Rasterizer.cpp
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(162): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(171): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(172): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(173): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(179): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(180): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(182): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(183): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(187): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(188): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(189): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(190): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(191): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(203): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(204): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(205): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(206): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(207): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(227): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(229): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(235): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(278): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(283): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(291): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(296): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(310): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(315): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(323): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\ctstudent2\studentusers\100379096\desktop\tinyraster\tinyraster\rasterizer.cpp(328): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TinyRaster.vcxproj -> \\ctstudent2\studentusers\100379096\Desktop\TinyRaster\x64\Debug\TinyRaster.exe
+  TinyRaster.vcxproj -> \\ctstudent2\studentusers\100379096\Desktop\TinyRaster\x64\Debug\TinyRaster.pdb (Full PDB)

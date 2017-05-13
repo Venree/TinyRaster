@@ -1,0 +1,36 @@
+﻿  Rasterizer.cpp
+Rasterizer.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(162): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(171): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(172): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(173): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(179): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(180): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(182): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(183): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(187): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(188): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(189): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(190): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(191): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(203): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(204): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(205): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(206): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(207): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(212): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(216): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(218): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(224): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(226): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(251): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  6 of 174 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TinyRaster.vcxproj -> C:\Users\Michele Felice\Desktop\TinyRaster\Release\TinyRaster.exe
+  TinyRaster.vcxproj -> C:\Users\Michele Felice\Desktop\TinyRaster\Release\TinyRaster.pdb (Full PDB)
